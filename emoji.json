@@ -322,6 +322,32 @@
       { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2233niang/14.png\">", "text": "2233娘_吐魂" },
       { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2233niang/15.png\">", "text": "2233娘_无言" }
     ]
+  },
+
+  "哔哩哔哩-蛆音娘": {
+    "type": "image",
+    "container": [
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/1.png\">", "text": "蛆音娘_卖萌" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/2.png\">", "text": "蛆音娘_吃瓜群众" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/3.png\">", "text": "蛆音娘_吃惊" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/4.png\">", "text": "蛆音娘_害怕" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/5.png\">", "text": "蛆音娘_扶额" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/6.png\">", "text": "蛆音娘_滑稽" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/7.png\">", "text": "蛆音娘_哼" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/8.png\">", "text": "蛆音娘_机智" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/9.png\">", "text": "蛆音娘_哭泣" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/10.png\">", "text": "蛆音娘_睡觉觉" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/11.png\">", "text": "蛆音娘_生气" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/12.png\">", "text": "蛆音娘_偷看" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/13.png\">", "text": "蛆音娘_吐血" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/14.png\">", "text": "蛆音娘_无语" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/15.png\">", "text": "蛆音娘_摇头" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/16.png\">", "text": "蛆音娘_疑问" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/17.png\">", "text": "蛆音娘_die" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/18.png\">", "text": "蛆音娘_OK" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/19.png\">", "text": "蛆音娘_肥皂" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/20.png\">", "text": "蛆音娘_大笑" }
+    ]
   }
 
 }
