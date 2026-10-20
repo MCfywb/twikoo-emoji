@@ -301,6 +301,27 @@
       { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/miao/9.png\">", "text": "卖萌" },
       { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/miao/10.png\">", "text": "喵" }
     ]
+  },
+
+  "哔哩哔哩-2233娘": {
+    "type": "image",
+    "container": [
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2233niang/1.png\">", "text": "2233娘_大笑" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2233niang/2.png\">", "text": "2233娘_吃惊" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2233niang/3.png\">", "text": "2233娘_大哭" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2233niang/4.png\">", "text": "2233娘_耶" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2233niang/5.png\">", "text": "2233娘_卖萌" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2233niang/6.png\">", "text": "2233娘_疑问" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2233niang/7.png\">", "text": "2233娘_汗" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2233niang/8.png\">", "text": "2233娘_困惑" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2233niang/9.png\">", "text": "2233娘_怒" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2233niang/10.png\">", "text": "2233娘_委屈" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2233niang/11.png\">", "text": "2233娘_郁闷" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2233niang/12.png\">", "text": "2233娘_第一" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2233niang/13.png\">", "text": "2233娘_喝水" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2233niang/14.png\">", "text": "2233娘_吐魂" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2233niang/15.png\">", "text": "2233娘_无言" }
+    ]
   }
 
 }
