@@ -1,4 +1,5 @@
 {
+
   "哔哩哔哩-tv_小电视": {
     "type": "image",
     "container": [
@@ -37,7 +38,7 @@
       { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/tv_xds/33.gif\">", "text": "tv_困" },
       { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/tv_xds/34.gif\">", "text": "tv_打脸" },
       { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/tv_xds/35.gif\">", "text": "tv_闭嘴" },
-      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/tv_xds/36.gif\">", "text": "tv_鄙视]" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/tv_xds/36.gif\">", "text": "tv_鄙视" },
       { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/tv_xds/37.gif\">", "text": "tv_腼腆" },
       { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/tv_xds/38.gif\">", "text": "tv_馋" },
       { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/tv_xds/39.gif\">", "text": "tv_可爱" },
@@ -53,5 +54,22 @@
       { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/tv_xds/49.png\">", "text": "tv_调侃" },
       { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/tv_xds/50.png\">", "text": "tv_目瞪口呆" }
     ]
+  },
+
+  "哔哩哔哩-喵": {
+    "type": "image",
+    "container": [
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/miao/1.png\">", "text": "酷仔" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/miao/2.png\">", "text": "赞了" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/miao/3.png\">", "text": "暗中观察" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/miao/4.png\">", "text": "么么哒" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/miao/5.png\">", "text": "哭哭" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/miao/6.png\">", "text": "饿了" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/miao/7.png\">", "text": "问号" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/miao/8.png\">", "text": "嘿嘿" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/miao/9.png\">", "text": "卖萌" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/miao/10.png\">", "text": "喵" }
+    ]
   }
+
 }
