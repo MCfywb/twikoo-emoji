@@ -348,6 +348,37 @@
       { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/19.png\">", "text": "蛆音娘_肥皂" },
       { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/qyn/20.png\">", "text": "蛆音娘_大笑" }
     ]
+  },
+
+  "哔哩哔哩-2023拜年纪": {
+    "type": "image",
+    "container": [
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/1.png\">", "text": "2023拜年纪_你很弱诶" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/2.png\">", "text": "2023拜年纪_两眼一黑" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/3.png\">", "text": "2023拜年纪_抱抱" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/4.png\">", "text": "2023拜年纪_好耶" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/5.png\">", "text": "2023拜年纪_nice" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/6.png\">", "text": "2023拜年纪_红包拿来" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/7.png\">", "text": "2023拜年纪_嘿嘿" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/8.png\">", "text": "2023拜年纪_瞄" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/9.png\">", "text": "2023拜年纪_大脑负载" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/10.png\">", "text": "2023拜年纪_2023" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/11.png\">", "text": "2023拜年纪_吐" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/12.png\">", "text": "2023拜年纪_盯_" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/13.png\">", "text": "2023拜年纪_震惊" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/14.png\">", "text": "2023拜年纪_就是你了" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/15.png\">", "text": "2023拜年纪_祈愿" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/16.png\">", "text": "2023拜年纪_吃草" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/17.png\">", "text": "2023拜年纪_贴贴" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/18.png\">", "text": "2023拜年纪_疑问" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/19.png\">", "text": "2023拜年纪_干杯！" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/20.png\">", "text": "2023拜年纪_落泪" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/21.png\">", "text": "2023拜年纪_烟花" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/22.png\">", "text": "2023拜年纪_什么？！" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/23.png\">", "text": "2023拜年纪_安详" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/24.png\">", "text": "2023拜年纪_新年快乐" },
+      { "icon": "<img src=\"https://emoji.mcfywb.top/bilibili/2023bnj/25.png\">", "text": "2023拜年纪_呆滞" }
+    ]
   }
 
 }
